@@ -1,1 +1,3 @@
-# buildbot-grouped-builders
+# Buildbot grouped builders
+
+Grouping builders by tags. 
