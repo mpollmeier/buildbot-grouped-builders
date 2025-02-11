@@ -14,7 +14,7 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
 ]
-license = "Apache2"
+license = "Apache-2.0"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
